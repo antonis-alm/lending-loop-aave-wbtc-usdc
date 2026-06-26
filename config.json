@@ -18,7 +18,7 @@
   "emergency_mode_trigger": "1.10",
   "resume_threshold": "1.2",
   "aggressive_repay_in_emergency_mode": true,
-  "min_action_usdc": "0.5",
+  "min_action_usdc": "0.01",
   "min_action_wbtc": "0.00001",
   "min_collateral_usd_for_active_position": "1",
   "force_action": "",
